@@ -1,0 +1,3 @@
+/home/jm/Pulpit/semestr_vi/programowanie/Slownik_lista/CMakeFiles/rebuild_cache.dir
+/home/jm/Pulpit/semestr_vi/programowanie/Slownik_lista/CMakeFiles/program.dir
+/home/jm/Pulpit/semestr_vi/programowanie/Slownik_lista/CMakeFiles/edit_cache.dir

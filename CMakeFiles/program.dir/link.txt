@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14  -rdynamic CMakeFiles/program.dir/main.cpp.o CMakeFiles/program.dir/Slownik.cpp.o  -o program 
